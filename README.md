@@ -122,6 +122,11 @@ print(query_result)
 
 
 
+
+
+
+
+
 ## Output:
 ![image](https://github.com/user-attachments/assets/b2f914cb-35c6-45f5-8a74-61bf7958abf8)
 ![image](https://github.com/user-attachments/assets/ae9cd42b-047b-47dc-8f27-921484eb4550)
