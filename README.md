@@ -38,6 +38,16 @@
     <ul><li>Print the calculated approximate probabilities for the specified query_variable.</li></ul>
 
 
+
+
+
+
+
+
+
+
+
+
 ## Program:
 ```
 #importing required libraries
